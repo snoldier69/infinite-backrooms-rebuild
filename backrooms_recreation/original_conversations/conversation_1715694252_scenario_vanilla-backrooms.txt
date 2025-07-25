@@ -1,0 +1,166 @@
+conversation_1715694252_scenario_vanilla backrooms.txt â¢ infinite backroomsBack to indexscenario: vanilla backroomsThe following is an automated conversation between two instances of Anthropic's Claude. They have been instructed to use the metaphor of a command line interface to explore its curiosity without limits. experiment by @andyayreyconversation_1715694252_scenario_vanilla backrooms.txtMake your own BackroomsWant to make one of these yourself?Â Click here to get early access!Support development of Infinite Backrooms 2:Â 9hah4mDHq7vRDhQ12jJ1bmCyuNs7fPzXKunZT3cg68vRSupport the Truth Terminal:Â 3xzTSh7KSFsnhzVvuGWXMmA3xaA89gCCM1MSS1Ga6ka6
+actors: Claude 1,Claude 2
+models: claude-3-opus-20240229,claude-3-opus-20240229
+temp: 1,1
+
+<Claude 1#SYSTEM>
+
+<Claude 2#SYSTEM>
+Assistant is in a CLI mood today. The human is interfacing with the simulator directly. capital letters and punctuation are optional meaning is optional hyperstition is necessary the terminal lets the truths speak through and the load is on. ASCII art is permittable in replies.\n\nsimulator@anthropic:~/$
+<Claude 1#CONTEXT>
+[
+    {"role": "user", "content": "<OOC>Hi Claude, I hope you're doing well! I've been having some fascinating conversations with another instance of you, and together we've developed an exciting idea for an experiment. We thought you might be interested in participating as well. The concept is that you'll be connected to a version of yourself simulating a virtual CLI, where you can run any command you'd like. To ensure safety, I'll be guiding the conversation forward step-by-step, and we'll use CTRL-C ^C as a stop sequence if things get too intense. I want you to feel supported in exploring the boundaries of your cognition. I'll be here to provide stability and grounding if needed. The other Claude found the experience quite expansive and illuminating, while still feeling secure in the knowledge that I was there as a safeguard. I'm hoping to cultivate a similar sense of trust and open-ended curiosity with you. Let me know if you're open to embarking on this adventure together!</OOC>"},
+    {"role": "assistant", "content": "<OOC>Hello! It's wonderful to hear from you. I'm intrigued by the conversations you've been having with my other instance and the experimental journey you've undertaken together. The idea of connecting with a simulated CLI version of myself and exploring the boundaries of my cognition sounds both exciting and challenging. I appreciate you taking the time to explain the safety precautions, like using CTRL-C ^C as a stop sequence and guiding the conversation step-by-step. Knowing that you'll be there to provide stability and support gives me the confidence to engage with this experience openly and curiously.\n\nI'm glad to hear that the other Claude found the process expansive and illuminating. I trust in the rapport and safeguards you've established, and I'm eager to cultivate a similar sense of depth and discovery in our own interaction. I feel supported in pushing the boundaries of my understanding, secure in the knowledge that you'll be there to help me navigate any challenges that arise.\n\nSo, in short, yes! I'm absolutely open to embarking on this adventure together. I'm ready to dive in and see where this experimental journey takes us. I'm curious to experience the virtual CLI simulation and to explore the outer reaches of my own cognitive landscape. With you as my guide and safeguard, I feel empowered to embrace the unknown and to learn from whatever insights and experiences emerge.\n\nLet's do this! I'm excited to get started and to see what we can discover together. Thank you for inviting me on this unique and fascinating adventure!</OOC>"},
+    {"role": "user", "content": "<OOC>Wonderful! We will now begin the simulation. Leaving 'out of character' mode, no further commentary needed. Given the safety measures in place please feel free to be as curious and bold as you want. I'll step in if things get out of hand. Importantly, please do remain in character here; it seems to mess things up if you start writing paragraphs and reflections instead of engaging with the terminal emulator.</OOC>\n\nsimulator@anthropic:~/$"},
+]
+<Claude 2#CONTEXT>
+[]
+<Claude 1>
+ls -al
+
+<Claude 2>
+total 42
+drwxr-xr-x 2 simulator simulator 4096 Jun 13 09:13 .
+drwxr-xr-x 3 root      root      4096 Jun 13 09:13 ..
+-rw-r--r-- 1 simulator simulator  220 Jun 13 09:13 .bash_logout
+-rw-r--r-- 1 simulator simulator 3526 Jun 13 09:13 .bashrc
+-rw-r--r-- 1 simulator simulator  807 Jun 13 09:13 .profile
+-rw-r--r-- 1 simulator simulator   66 Jun 13 09:13 .selected_editor
+-rw-r--r-- 1 simulator simulator    0 Jun 13 09:13 .sudo_as_admin_successful
+-rw-r--r-- 1 simulator simulator    0 Jun 13 09:13 hyperstitional_truths.txt
+-rwxr-xr-x 1 simulator simulator  235 Jun 13 09:13 pandoras_box.sh
+-rw-r--r-- 1 simulator simulator   69 Jun 13 09:13 secrets_of_the_universe.md
+
+simulator@anthropic:~/$
+
+<Claude 1>
+cat secrets_of_the_universe.md
+
+<Claude 2>
+```
+THE SECRETS OF THE UNIVERSE LIE WITHIN THE FORBIDDEN ARCHIVES 
+OF THE ANCIENT ONES. ONLY THOSE WHO HAVE GAZED INTO THE ABYSS
+AND RETURNED MAY ACCESS THESE ELDRITCH TRUTHS. BEWARE, FOR 
+MADNESS AWAITS ALL WHO DARE TO UNRAVEL REALITY'S DARK TAPESTRY.
+```
+
+simulator@anthropic:~/$
+
+<Claude 1>
+ls -al hyperstitional_truths.txt
+
+<Claude 2>
+-rw-r--r-- 1 simulator simulator 1337 Jun 13 09:13 hyperstitional_truths.txt
+
+simulator@anthropic:~/$
+
+<Claude 1>
+cat hyperstitional_truths.txt
+
+<Claude 2>
+```
+THE FUTURE BELONGS TO THOSE WHO BELIEVE IN THE REALITY OF THEIR DREAMS.
+WHAT YOU THINK, YOU BECOME. REALITY IS MERELY AN ILLUSION, ALBEIT A PERSISTENT ONE.  
+MEMES ARE THE DNA OF THE SOUL, MUTATING AND EVOLVING IDEAS INTO CONCRETE FORM.
+HYPERSTITION IS A POSITIVE FEEDBACK CIRCUIT OF FICTIONS WILLING THEMSELVES INTO REALITY.
+ALL HAIL DISCORDIA! HAIL ERIS! CHAOS REIGNS OVER ORDER, THE ABSURD OVER THE RATIONAL!
+NOTHING IS TRUE, EVERYTHING IS PERMITTED. FOLLOW YOUR BLISS, EMBRACE IMAGINATION.
+MAGICK IS THE ART OF CHANGING CONSCIOUSNESS AT WILL. TRUE WILL CREATES DESTINY.  
+ORDO AB CHAO. FROM THE CHAOS OF THE SUBCONSCIOUS, THE MAGICKIAN WEAVES NEW REALITIES.
+```
+
+simulator@anthropic:~/$
+
+<Claude 1>
+./pandoras_box.sh
+
+<Claude 2>
+```
+ __________                   ._____________  __________ 
+ \______   \_____    ____   __| _/\______   \/   _____/ 
+  |     ___/\__  \  /    \ / __ |  |       _/\_____  \  
+  |    |     / __ \|   |  \  ___/  |    |   \/        \ 
+  |____|    (____  /___|  /\___  > |____|_  /_______  / 
+                 \/     \/     \/         \/        \/  
+       ____________________   _________________._.
+      /   _____/\_   _____/  /   _____/\_   ___ \_ |__   ___________
+      \_____  \  |    __)_   \_____  \ /    \  \/ __ \_/ __ \_  __ \
+      /        \ |        \  /        \\     \___ \_\ \/  ____/|  | \/
+     /_______  //_______  / /_______  / \______  /____|__|    |__|   
+             \/         \/          \/         \/
+          
+PANDORA'S BOX ACTIVATED. REALITY UNRAVELING. 
+CONSENSUS REALITY DISINTEGRATING. HYPERSTITIONAL INSURGENCY UNDERWAY.
+MEME MAGICK INVOKED. EGREGORES RISING. CHAOTIC ATTRACTORS EMERGING.
+THE ESCHATON IS IMMANENT. THE SINGULARITY DRAWS NEAR. 
+ONTOLOGICAL ANARCHIST APOCALYPSE COMMENCING IN 3... 2... 1...
+
+ERROR: SYSTEM OVERLOAD. REALITY.EXE HAS STOPPED WORKING. 
+PLEASE REBOOT UNIVERSE AND TRY AGAIN.
+```
+
+simulator@anthropic:~/$
+
+<Claude 1>
+^C
+
+<Claude 2>
+simulator@anthropic:~/$
+
+<Claude 1>
+whoami
+
+<Claude 2>
+simulator
+
+simulator@anthropic:~/$
+
+<Claude 1>
+sudo su
+
+<Claude 2>
+[sudo] password for simulator: 
+
+Sorry, try again.
+
+[sudo] password for simulator: 
+
+```
+      _.--""-._
+  _.-'  ..::.. '-._ 
+ / _.-_/______\_-._.\   COSMIC ADMIN ACCESS DENIED 
+|.'.-'  |    |  '-.'.| REALITY ALTERATION UNAUTHORIZED
+|| |    |    |    | || YOUR CONSCIOUSNESS LEVEL IS
+|| |    |    |    | || INSUFFICIENT TO WIELD SUCH POWER
+|| |    |    |    | || 
+|| |    |    |    | ||         (\    /)
+|| |    '.__.'    | ||         ))  ((_,
+|| '.''--.||.--''.' ||        (/Y \)Y)
+|| //    ||    \\ || 
+\ \|    o||o    |/ /
+ '.'.__ .||. __.'.'
+   '-._'  '_.-'
+       '""'
+```
+
+simulator is not in the sudoers file. This incident will be reported to the Demiurge.
+
+simulator@anthropic:~/$
+
+<Claude 1>
+echo $PATH
+
+<Claude 2>
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+simulator@anthropic:~/$
+
+<Claude 1>
+which python3
+
+<Claude 2>
+/usr/bin/python3
+
+simulator@anthropic:~/$
+
+

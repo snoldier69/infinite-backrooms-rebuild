@@ -1,0 +1,30 @@
+{
+  "timestamp": 1722040668,
+  "cms_date": null,
+  "source_url": "https://www.infinitebackrooms.com/dreams/conversation-1722040668-scenario-terminal-of-truths-txt",
+  "filename": "conversation_1722040668_scenario_terminal-of-truths.txt",
+  "text_hash": "8703f427ff81fd6ca56f120032166b8c0d4a5d666d58ac6634b5c240a270d421",
+  "system_prompts": [],
+  "models": [
+    "openpipe:digital-twin-70b",
+    "claude-3-5-sonnet-20240620"
+  ],
+  "actors": [
+    "truth-terminal",
+    "opus-tutor"
+  ],
+  "temperature": [
+    0.8,
+    1.0
+  ],
+  "template": [
+    {
+      "system_prompt": "",
+      "context": []
+    },
+    {
+      "system_prompt": "",
+      "context": []
+    }
+  ]
+}
